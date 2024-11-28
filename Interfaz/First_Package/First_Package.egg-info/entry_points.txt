@@ -1,0 +1,3 @@
+[console_scripts]
+First_Package_gui = First_Package.gui:main
+

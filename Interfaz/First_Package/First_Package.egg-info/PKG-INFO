@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: First-Package
+Version: 0.1.0
+Summary: Un paquete de ejemplo en Python con interfaz gráfica usando PyQt5
+Home-page: https://github.com/tu_usuario/First_Package
+Author: Tu Nombre
+Author-email: tu_email@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# First_Package
+
+First_Package es un paquete de ejemplo en Python que incluye una interfaz gráfica simple con PyQt5.
+La aplicación permite ejecutar funciones de ejemplo desde una interfaz gráfica.
+
+## Instalación
+
+```bash
+pip install .
+```
+
+## Uso
+
+Ejecuta la interfaz gráfica usando el siguiente comando:
+
+```bash
+First_Package_gui
+```
+
+
